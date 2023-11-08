@@ -1,0 +1,17 @@
+fiat,165TN2222,loue,50,fiat
+toyota,170TN3333,loue,80,toyota
+scoda,185TN6666,loue,140,scoda
+honda,195TN8888,Disponible,140,honda
+mercedes_benz,200TN2000,encoursdereparation,150,mercedes
+jeep,190TN9999,disponible,120,jeep
+nissan,160TN1111,en cours de reparation,50,nissan
+peugot,166TN9999,en cours de reparation,60,peugot
+jaguar,200TN0001,Disponible,150.0,jaguar
+lancia,188TN8888,Disponible,70.0,lancia
+maybach,230TN1111,Disponible,200.0,mercedes
+bmw,174TN4444,Loue,100.0,bmw
+punto,200TN1999,Disponible,20.0,fiat
+KIA,210,Disponible,350.0,KIA
+AA,123,Disponible,100.0,KIA
+AA,122,Disponible,100.0,AAA
+KIA,123TN9999,Disponible,100.0,LOUE
